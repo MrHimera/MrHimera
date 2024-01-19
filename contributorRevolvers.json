@@ -1,6 +1,6 @@
 {
   "uuid":["f34afdfb-996b-4020-b8a2-b740e2937b29","96b9fe96-eb90-35cf-8555-dee7358a24cc","0fcd7fcb-46b7-4ac1-92ea-1fa2911437a4"],
-  "tag":"fenrir", "flavour":"", "baseUpgrades":{"melee":10.0}, "renderAdditions":["bayonet_attachment","dev_bayonet","dev_scope"]
+  "tag":"", "flavour":"", "baseUpgrades":
 }
 {
   "uuid":["07c11943-628b-4671-a331-84899d08e538"],
